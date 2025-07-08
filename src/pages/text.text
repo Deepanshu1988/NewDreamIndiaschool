@@ -1,0 +1,104 @@
+ {/* <div className="container d-flex navsect mt-5">
+            <Nav
+              className="flex-column p-3"
+              activeKey={selectedTab}
+              onSelect={(selectedKey) => setSelectedTab(selectedKey)}
+            >
+              <Nav.Item>
+                <Nav.Link eventKey="tab1" className="navlink">
+                  Tab 1
+                </Nav.Link>
+              </Nav.Item>
+              <Nav.Item>
+                <Nav.Link eventKey="tab2" className="navlink">
+                  Tab 2
+                </Nav.Link>
+              </Nav.Item>
+              <Nav.Item>
+                <Nav.Link eventKey="tab3" className="navlink">
+                  Tab 3
+                </Nav.Link>
+              </Nav.Item>
+              <Nav.Item>
+                <Nav.Link eventKey="tab4" className="navlink">
+                  Tab 4
+                </Nav.Link>
+              </Nav.Item>
+              <Nav.Item>
+                <Nav.Link eventKey="tab5" className="navlink">
+                  Tab 5
+                </Nav.Link>
+              </Nav.Item>
+              <Nav.Item>
+                <Nav.Link eventKey="tab6" className="navlink">
+                  Tab 6
+                </Nav.Link>
+              </Nav.Item>
+            </Nav>
+            <div className="flex-grow-1 p-3">
+              {selectedTab === "tab1" && <div>Content for Tab 1</div>}
+              {selectedTab === "tab2" && <div>Content for Tab 2</div>}
+              {selectedTab === "tab3" && <div>Content for Tab 3</div>}
+              {selectedTab === "tab4" && <div>Content for Tab 4</div>}
+              {selectedTab === "tab5" && <div>Content for Tab 5</div>}
+              {selectedTab === "tab6" && <div>Content for Tab 6</div>}
+            </div>
+          </div> */}
+
+
+
+
+
+
+
+           // setData({
+      //   class: "",
+      //   school: "",
+      //   present_class: "",
+      //   present_school_city: "",
+      //   firstname: "",
+      //   lastname: "",
+      //   birth_certificate_file: "",
+      //   mobile: "",
+      //   gender: "",
+      //   religion: "",
+      //   caste: "",
+      //   category: "",
+      //   // adhar_card: "",
+      //   // dateInput: "",
+      //   father_name: "",
+      //   father_qualification: "",
+      //   father_occupation: "",
+      //   father_profession: "",
+      //   father_employer: "",
+      //   father_business: "",
+      //   father_email: "",
+      //   father_mobile: "",
+      //   father_annual_income: "",
+      //   father_res_address: "",
+      //   father_office_address: "",
+      //   // mother
+      //   mother_name: "",
+      //   mother_qualification: "",
+      //   mother_occupation: "",
+      //   mother_profession: "",
+      //   mother_employer: "",
+      //   mother_business: "",
+      //   mother_email: "",
+      //   mother_mobile: "",
+      //   mother_annual_income: "",
+      //   mother_res_address: "",
+      //   mother_office_address: "",
+      //   // siblings
+      //   // first
+      //   first_childname: "",
+      //   first_child_addmission_number: "",
+      //   first_child_class: "",
+      //   first_child_section: "",
+
+      //   // second
+      //   second_childname: "",
+      //   second_child_addmission_number: "",
+      //   second_child_class: "",
+      //   second_child_section: "",
+      // });
